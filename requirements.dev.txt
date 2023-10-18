@@ -54,7 +54,7 @@ sphinxcontrib-serializinghtml==1.1.5
 toml==0.10.2
 tomli==2.0.0
 typing-extensions==4.2.0
-urllib3==1.26.8
+urllib3==1.26.18
 virtualenv
 inflection~=0.5.1
 pydantic~=1.10.2
