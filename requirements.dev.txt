@@ -6,7 +6,7 @@ Pygments==2.11.2
 Sphinx==4.3.2
 alabaster==0.7.12
 attrs==21.4.0
-certifi==2021.10.8
+certifi==2024.7.4
 charset-normalizer==2.0.10
 coverage==6.2
 distlib==0.3.4
