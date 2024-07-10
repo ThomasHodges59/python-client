@@ -10,3 +10,4 @@ sphinx-design
 sphinx-inline-tabs
 sphinx-tabs
 Pygments
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
